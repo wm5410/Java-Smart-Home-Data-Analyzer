@@ -96,3 +96,7 @@ This is a command-line Java application designed to process, analyze, and displa
     * Comma-separated values (CSV).
     * Header: `Username,Password` (Note: current file has a typo "Passowrd")
     * Each subsequent line: `actualUsername,actualPassword`
+ 
+
+## Screenshot
+![Command Line](image.png)
